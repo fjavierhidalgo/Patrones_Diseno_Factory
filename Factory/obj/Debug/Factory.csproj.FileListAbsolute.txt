@@ -1,0 +1,7 @@
+C:\Users\usuario\Desktop\C#\Patrones Diseño\Factory\Patrones_Diseno_Factory\Factory\bin\Debug\Factory.exe.config
+C:\Users\usuario\Desktop\C#\Patrones Diseño\Factory\Patrones_Diseno_Factory\Factory\bin\Debug\Factory.exe
+C:\Users\usuario\Desktop\C#\Patrones Diseño\Factory\Patrones_Diseno_Factory\Factory\bin\Debug\Factory.pdb
+C:\Users\usuario\Desktop\C#\Patrones Diseño\Factory\Patrones_Diseno_Factory\Factory\obj\Debug\Factory.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\C#\Patrones Diseño\Factory\Patrones_Diseno_Factory\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\C#\Patrones Diseño\Factory\Patrones_Diseno_Factory\Factory\obj\Debug\Factory.exe
+C:\Users\usuario\Desktop\C#\Patrones Diseño\Factory\Patrones_Diseno_Factory\Factory\obj\Debug\Factory.pdb
